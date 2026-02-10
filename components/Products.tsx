@@ -17,7 +17,7 @@ const products: Product[] = [
   {
     id: '2',
     name: 'Robô do Job',
-    description: 'Automação inteligente para encontrar e fechar oportunidades de trabalho.',
+    description: 'Aprenda a criar modelos e influenciadoras +18 100% com IA e lucre muito no nicho hot.',
     badges: ['Acesso imediato', 'Mais Vendido'],
     imageIcon: Bot,
     status: 'active'
