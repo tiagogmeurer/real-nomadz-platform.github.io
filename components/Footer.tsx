@@ -12,7 +12,7 @@ export const Footer: React.FC = () => {
                 R
               </div>
               <span className="font-display font-bold text-xl tracking-tight text-white">
-                Real<span className="text-brand-orange">Nomadz</span>
+                Real<span className="text-brand-orange"> Nomadz</span> ®
               </span>
             </a>
             <p className="text-gray-500 text-sm">
