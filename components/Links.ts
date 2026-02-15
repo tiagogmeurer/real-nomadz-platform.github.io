@@ -8,7 +8,7 @@ export const LINKS = {
     afiliados: "https://www.robodojob.com/#/afiliados",
   },
   comunidade: {
-    discord: "https://discord.gg/Sczr7jRf",
+    discord: "https://discord.gg/BDxFNNee2N",
     telegram: "https://t.me/+ZDopqtDr-vs4M2Jh",
   },
 } as const;
